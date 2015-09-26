@@ -156,6 +156,7 @@
 		053DC9281B23F46000364ADE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = sridhar;
 				TargetAttributes = {
@@ -411,6 +412,7 @@
 				053DC9511B23F46000364ADE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		053DC9521B23F46000364ADE /* Build configuration list for PBXNativeTarget "swiftAnimateTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +421,7 @@
 				053DC9541B23F46000364ADE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
